@@ -1,1 +1,2 @@
 Ao invés de realizarmos a atividade 1 da aula 1 para entrega no dia 12/03/2025, realizamos a entrega da Atividade 1 da aula 2. No dia 12/03 conversamos com o professor sobre o equivoco e foi nos orientado a entregar a atividade da aula 1 e a atividade 1 da aula 2 no dia 12/03. Assim a data de entrega da atividade 1 da aula 1 está posterior a data de entrega oficial. Lembrar professor no final do semestre sobre essa diferença de dados.
+Além disso, as primeiras entregas foram concentradas no aluno Gabriel Capecci, pois somente um do grupo upava os arquivos no GitHub
